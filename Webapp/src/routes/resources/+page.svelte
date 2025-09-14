@@ -154,7 +154,7 @@
             <div class="analysis-highlights">
               <div class="highlight">
                 <Icon icon="mdi:world" class="highlight-icon" />
-                <span>Ethical Critque</span>
+                <span>Ethical Critique</span>
               </div>
               <div class="highlight">
                 <Icon icon="mdi:eye" class="highlight-icon" />
